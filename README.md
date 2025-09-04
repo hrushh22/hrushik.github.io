@@ -1,23 +1,11 @@
-# Hrushik's Data Science Portfolio
+## Selected Dataset: Global COVID-19 Dataset
+**Source:** https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
-Welcome to my GitHub Pages website for BDA594!
-
-## Selected Dataset: [Dataset Name]
-**Source:** [URL from awesome-datascience]
-
-**Description:** [Brief description of the dataset]
+**Description:** This dataset provides daily updated information on COVID-19 cases worldwide, including confirmed cases, deaths, and recovered cases organized by country and region. It contains time-series data that tracks the pandemic's progression from early 2020 onwards, with detailed geographic breakdowns and daily updates.
 
 **Potential Applications:**
-- [Application 1]
-- [Application 2]  
-- [Application 3]
-
-## Selected Data Science Book: [Book Title]
-**Author:** [Author Name]  
-**Institution/Publisher:** [Institution]  
-**URL:** [Book URL]
-
-**Why I'm Interested:** [Your explanation of why this book interests you]
-
----
-*Part of BDA594 Assignment - Fall 2025*
+- Epidemiological modeling and disease spread forecasting
+- Public health policy analysis and intervention effectiveness studies
+- Healthcare resource planning and capacity management
+- Comparative analysis of different countries' pandemic responses
+- Time-series analysis and trend identification for public health decision-making
